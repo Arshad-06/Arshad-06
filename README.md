@@ -1,6 +1,6 @@
 <h1 align="center">Hey There! 👋, I'm Arshad Mapari</h1>
 
-- 🌱 Currently Exploring : **Deep Learning Algorithms**
+- 🌱 Currently Exploring : **Deep Learning**
 
 - 📫 Contact Me : **arshadhm200@gmail.com**
 
